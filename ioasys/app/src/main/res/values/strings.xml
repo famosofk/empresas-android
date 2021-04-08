@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ioasys</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_string">Bem vindo ao\n empresas</string>
+    <string name="subtitle_string">Lorem ipsum dolor sit amet, contetur adipiscing elit. Nunc accumsan.</string>
+    <string name="login_term">Login</string>
+    <string name="image_photo">Image photo</string>
+    <string name="search_hint">Clique na busca para pesquisar</string>
+    <string name="ioasys_logo">ioasys logo</string>
+</resources>
